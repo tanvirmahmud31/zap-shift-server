@@ -1,0 +1,6 @@
+node_modules
+.env
+.vercel
+.env*
+*-firebase-adminsdk.json
+firebase-admin-key.json
